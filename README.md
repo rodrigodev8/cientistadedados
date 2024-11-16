@@ -51,7 +51,6 @@ Sou apaixonado por **dados**, **estatística** e **machine learning**! 🚀 Atua
 
 ## 🌐 Conecte-se comigo
 - 📫 **E-mail**: vajasrodrigo91@gmail.com
-- 💻 [Portfólio](https://seu-portfolio.com)
 
 ---
 
