@@ -26,22 +26,6 @@ Sou apaixonado por **dados**, **estatística** e **machine learning**! 🚀 Atua
 
 ---
 
-## 📂 Projetos Destaques
-
-### 🌍 [Análise de Previsão de Mudanças Climáticas](https:/rodrigodev8/github.com//projeto-clima)
-- **Descrição**: Modelo preditivo para analisar padrões de mudanças climáticas com regressão linear múltipla.
-- **Ferramentas**: Python, Pandas, Matplotlib, Scikit-learn.
-
-### 🛒 [Análise de Cesta de Mercado e Segmentação de Clientes](https://github.com/rodrigodev8/projeto-cesta)
-- **Descrição**: Segmentação de clientes baseada em compras utilizando clustering K-means.
-- **Ferramentas**: Python, Seaborn, Scikit-learn.
-
-### 📈 [Dashboard de Visualização de Vendas](https://github.com/rodrigodev8/dashboard-vendas)
-- **Descrição**: Dashboard interativo para análise de vendas e comportamento de clientes.
-- **Ferramentas**: Tableau, SQL.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?rodrigodev8&show_icons=true&theme=dark)
