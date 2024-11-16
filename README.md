@@ -22,14 +22,7 @@ Sou apaixonado por **dados**, **estatística** e **machine learning**! 🚀 Atua
 - **Big Data**:
   - Apache Spark, Hadoop, PySpark.
 - **Visualização de Dados**:
-  - Tableau, Power BI, Plotly.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?rodrigodev8&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rodrigodev8&layout=compact&theme=dark)
+  - Tableau e Power BI
 
 ---
 
